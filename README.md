@@ -22,5 +22,6 @@ Forma de correr:
 NOTA: Al momento de ejecutar el cliente es necesario especificar la ip y el puerto donde se encuentra el servidor.
 ---------------------------------
 
-Autor: Cesar Ramirez Hernandez
+Autor: Cesar Ramirez Hernandez 
+Fecha de actualizacion: 02-10-2023
 
