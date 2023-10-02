@@ -15,12 +15,11 @@ NOTA: El servidor correra en la ip de la maquina donde se este ejecutando y el p
 ----------Cliente UDP------------
 
 Forma de compilar:
-
-gcc cliente.c -o cliente
+ gcc cliente.c -o cliente
 
 Forma de correr:
-
-./cliente Ip_Servidor Puerto_Servidor
+ ./cliente Ip_Servidor Puerto_Servidor
+ 
 ./cliente 127.0.0.1 4950
 
 NOTA: Al momento de ejecutar el cliente es necesario especificar la ip y el puerto donde se encuentra el servidor.
